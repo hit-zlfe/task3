@@ -9,7 +9,7 @@ define(['jquery','jqueryUI'],function($,$UI){
 			content: "",
 			handler: null,
 			hasCloseBtn: false,
-			hasMask: true,
+			hasMask: false,
 			isDraggable: true,
 			dragHandle: null,
 			skinClassName: null,

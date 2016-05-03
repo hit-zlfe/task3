@@ -1,7 +1,3 @@
-
-# yaoUI
-前端组件化初步尝试
-
 ## 遮罩弹窗组件：
 #### 包括默认接口：
 	width: 500, 			/* 默认宽度500px */
@@ -44,6 +40,4 @@ html:
 ```
 
 
-#### 在线演示demo：
-http://zhangjingyao.com/static/window/demo.html
 
